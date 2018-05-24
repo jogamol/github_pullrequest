@@ -28,3 +28,13 @@ git push --set-upstream origin new-branch
 
 
 Then on GIthub UI you can make pull request
+
+
+
+
+To delete branch 
+
+git branch -d the_local_branch
+
+git push origin --delete the_remote_branch
+
