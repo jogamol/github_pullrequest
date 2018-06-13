@@ -3,6 +3,10 @@
 
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
+add this command if have this error Could not open a connection to your authentication agent.
+eval `ssh-agent -s`
+
+
 This is to add current ssh to git bash
 
 ssh-add ~/.ssh/id_rsa
