@@ -1,5 +1,6 @@
 # github_pullrequest
 
+https://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent
 
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
